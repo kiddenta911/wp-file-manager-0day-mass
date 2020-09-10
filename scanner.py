@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #####################################
-#	SCANNER WP-FILE-MANAGER-0DAY    #
+#   SCANNER WP-FILE-MANAGER-0DAY    #
 #   Telegram = @h0d3_g4n            #
 #   ICQ = @h0d3_g4n                 #
 #   Skype = live:f2c962ccea77ec0    #
