@@ -1,0 +1,1 @@
+# wp-file-manager-0day-mass
