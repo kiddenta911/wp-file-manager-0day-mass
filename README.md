@@ -1,1 +1,1 @@
-# wp-file-manager-0day-mass
+# wp-file-manager-0day-mass upload shell
